@@ -1,0 +1,15 @@
+{
+  "name" : "isxuelinme/php-daemon-service",
+  "description" : "PHP Router ",
+  "version" : "1.0.0",
+  "license" : "MIT",
+  "keywords" : [ "php router" ],
+  "time" : "2017-01-01",
+  "homepage" : "http://pds.xuelin.me",
+  "authors" : [ {
+    "name" : "Crim Ma",
+    "email" : "is@xuelin.me",
+    "homepage" : "http://www.xuelin.me",
+    "role" : "Revolutionist"
+  } ]
+}
